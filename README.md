@@ -4,36 +4,32 @@
   <img src="https://i.pinimg.com/originals/aa/04/c7/aa04c7eb9760763ff6c88f0e28c10d17.gif" alt="helga vibe" width="420" />
 </p>
 
-<p align="center">༉‧₊˚✧ ୨୧ ⟡ ⋆.˚⊹ ᰔ ₊ ⊹ 𐙚 ✦</p>
+<p align="center">୨୧ ༉‧₊˚♡ 𐙚 ⋆.˚⊹ ᰔ ₊ ⊹ ✧</p>
 
 ```txt
-pick me? no. ༉‧₊˚✧
-soft? sometimes. ୨୧
-stable in prod? usually. ⟡
+soft heart, sharp eyeliner (｡•ㅅ•｡)♡
+too online, too dreamy, still cute ୨୧
+late nights and pretty little obsessions ✧
 ```
 
-frontend, late-night fixes, weird playlists, black coffee, and interfaces that
-look like they know exactly who they are.
+pink thoughts, dark playlists, messy tabs, shy eyes, and a habit of making
+everything a little prettier than it has to be (´｡• ᵕ •｡`) ♡
 
-currently romanticizing every clean deploy ⋆｡°✩
+currently collecting tiny fixations and turning them into little worlds 𐙚
 
-## about ༘⋆
+## about me ୨୧
 
-- building things that feel pretty and a little dangerous
-- turning messy ideas into working code
-- choosing moodboards first and overengineering later
-- professionally online, spiritually in a dark hoodie
+- soft alt girl with a dramatic inner soundtrack
+- i like pretty things, strange moods, and staying up too late
+- some days i'm all ribbons and gloss, some days it's oversized black hoodies
+- i romanticize everything a little too hard and honestly i'm not stopping
 
-## current mode ✦
+## lately ✧
 
-- shipping side projects
-- collecting strange UI references
-- pretending one more refactor will fix everything
+- hoarding gifs, screenshots, and feelings
+- falling in love with colors, textures, and tiny details
+- pretending i'm fine and then making it aesthetic
 
-## stack i reach for ₊ ⊹
+## if you found me ᰔ
 
-`typescript` `react` `vite` `node.js` `telegram mini apps`
-
-## contact ᰔ
-
-if you're here from a repo, you're already close enough.
+stay a little, look around, be sweet <3
