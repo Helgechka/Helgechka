@@ -1,10 +1,9 @@
-# helga
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/aa/04/c7/aa04c7eb9760763ff6c88f0e28c10d17.gif" alt="helga vibe" width="420" />
 </p>
 
-<p align="center">୨୧ ༉‧₊˚♡ 𐙚 ⋆.˚⊹ ᰔ ₊ ⊹ ✧</p>
+<h1 align="center">୨୧༉‧˚♡𐙚✧ -- HELGA -- ୨୧༉‧₊ᰔ₊⊹✧</h1>
 
 ```txt
 soft heart, sharp eyeliner (｡•ㅅ•｡)♡
