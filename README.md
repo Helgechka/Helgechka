@@ -9,6 +9,8 @@ stable in prod? usually.
 frontend, late-night fixes, weird playlists, black coffee, and interfaces that
 look like they know exactly who they are.
 
+currently romanticizing every clean deploy.
+
 ## about
 
 - building things that feel pretty and a little dangerous
