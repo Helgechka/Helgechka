@@ -1,5 +1,9 @@
 # helga
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/aa/04/c7/aa04c7eb9760763ff6c88f0e28c10d17.gif" alt="helga vibe" width="420" />
+</p>
+
 ```txt
 pick me? no.
 soft? sometimes.
